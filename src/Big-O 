@@ -1,0 +1,5 @@
+In printReceiptInOrder, the complexity would be O(n)
+because of the 1 and only for loop in the method
+
+In emptyCartReverseOrder is also O(n) because of the for loop
+n in both methods is equal to the items in the cart
